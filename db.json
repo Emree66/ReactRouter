@@ -1,0 +1,41 @@
+{
+    "todos": [
+      {
+        "id": 1,
+        "title": "Répondre aux emails urgents",
+        "description": "Traiter les emails prioritaires de la journée",
+        "completed": false,
+        "priority": "high",
+        "dueDate": "2025-04-23",
+        "category": "travail",
+        "tags": ["email", "urgent", "communication"]
+      },
+      {
+        "id": 2,
+        "title": "Préparer la présentation client",
+        "description": "Finaliser les slides pour la réunion de demain",
+        "completed": false,
+        "priority": "high",
+        "dueDate": "2025-04-24",
+        "category": "travail",
+        "tags": ["présentation", "client", "réunion"]
+      },
+      {
+        "id": 3,
+        "title": "Faire les courses",
+        "description": "Acheter les ingrédients pour le dîner de ce soir",
+        "completed": true,
+        "priority": "medium",
+        "dueDate": "2025-04-22",
+        "category": "personnel",
+        "tags": ["courses", "alimentation", "maison"]
+      }
+    ],
+    "users": [
+      {
+        "id": 1,
+        "username": "user1",
+        "email": "user1@example.com"
+      }
+    ]
+  }

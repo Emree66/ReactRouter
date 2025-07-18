@@ -1,0 +1,38 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "text": "Apprendre React",
+      "completed": false
+    },
+    {
+      "id": 2,
+      "text": "Configurer Cypress",
+      "completed": true
+    },
+    {
+      "id": 3,
+      "text": "Écrire des tests E2E",
+      "completed": false
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "email": "test@example.com",
+      "password": "password123",
+      "name": "Utilisateur Test"
+    }
+  ],
+  "testData": {
+    "sampleTodos": [
+      "Faire les courses",
+      "Nettoyer la maison",
+      "Préparer le dîner",
+      "Lire un livre",
+      "Faire du sport"
+    ],
+    "longTodo": "Ceci est une tâche très longue qui permet de tester la gestion des textes longs dans l'application de gestion de tâches",
+    "specialCharacters": "Tâche avec des caractères spéciaux: éàèù & <script>alert('test')</script>"
+  }
+}
